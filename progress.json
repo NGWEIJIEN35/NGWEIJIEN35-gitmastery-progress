@@ -122,5 +122,14 @@
       "Remote 'alice-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-alice, fix that!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787392889.298477,
+    "completed_at": 1787392891.729681,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
   }
 ]
