@@ -303,5 +303,14 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787658163.53521,
+    "completed_at": 1787658167.174697,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
